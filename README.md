@@ -54,7 +54,6 @@ flowchart TD
 | `aix_mtime.curl.conf` | Protected Dynatrace endpoint and API-token configuration |
 | `tests/run_tests.sh` | Development test suite; not required on the AIX target |
 
-The earlier `aix_mtime_v1.sh` is retained only as a legacy reference and is not used by version 2.
 
 ## Requirements
 
